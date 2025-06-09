@@ -1,0 +1,13 @@
+{
+  "name": "pvp-platformer-server",
+  "version": "1.0.0",
+  "description": "Simple PVP Platformer Server with Room Code",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.5"
+  }
+}
